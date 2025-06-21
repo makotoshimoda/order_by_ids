@@ -9,7 +9,7 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'order_by_ids'
 ```
- 
+  
 And then execute:
 
     $ bundle
